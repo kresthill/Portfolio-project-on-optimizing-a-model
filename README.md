@@ -29,10 +29,10 @@ The final model achieved:
 This indicates the model is highly effective at identifying users who are likely to click on ads, with a good balance between false positives and missed opportunities. Performance was measured on a held-out test set using threshold-optimized predictions.
 
 **CONTACT**
-Feel free to reach out:
- 📨 Email: datafest2000@gmail.com
- 🐤 X or Twitter: @kresthill_07
- 🛍️ LinkedIn: LinkedIn: linkedin.com/in/festus-kresthill-178557330
+Feel free to reach out:  
+ 📨 Email: datafest2000@gmail.com  
+ 🐤 X or Twitter: @kresthill_07  
+ 🛍️ LinkedIn: LinkedIn: linkedin.com/in/festus-kresthill-178557330  
 
 
 
